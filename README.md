@@ -1,2 +1,1 @@
-# LoFo
-A full-stack Lost &amp; Found Portal for campuses that enables users to report, search, and claim lost or found items with secure authentication and image uploads.
+A secure full-stack Lost & Found Portal for educational campuses that allows users to report, search, and claim lost or found items with secure authentication, image uploads, role-based access control, and efficient item management.
